@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by <strong>Zara</strong> and is{" "}
           <a
-            href="https://github.com/"
+            href="https://github.com/z-scientist-ai/react-weather-app-final-project"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://react-weather-app-final-project.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
